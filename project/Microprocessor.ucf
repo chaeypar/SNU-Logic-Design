@@ -1,0 +1,56 @@
+
+
+NET "clr" LOC = P47;
+NET "clk_in" LOC = P57;
+NET "seg1[6]" LOC = P10;
+NET "seg1[5]" LOC = P8;
+NET "seg1[4]" LOC = P7;
+NET "seg1[3]" LOC = P6;
+NET "seg1[1]" LOC = P4;
+NET "seg1[2]" LOC = P5;
+NET "seg1[0]" LOC = P3;
+NET "seg2[6]" LOC = P19;
+NET "seg2[5]" LOC = P18;
+NET "seg2[4]" LOC = P16;
+NET "seg2[3]" LOC = P15;
+NET "seg2[2]" LOC = P13;
+NET "seg2[1]" LOC = P12;
+NET "seg2[0]" LOC = P11;
+
+
+NET "seg3[6]" LOC = P29;
+NET "seg3[5]" LOC = P28;
+NET "seg3[4]" LOC = P27;
+NET "seg3[3]" LOC = P25;
+NET "seg3[2]" LOC = P24;
+NET "seg3[1]" LOC = P21;
+NET "seg3[0]" LOC = P20;
+NET "seg4[6]" LOC = P64;
+NET "seg4[5]" LOC = P63;
+NET "seg4[4]" LOC = P62;
+NET "seg4[3]" LOC = P60;
+NET "seg4[2]" LOC = P59;
+NET "seg4[1]" LOC = P58;
+NET "seg4[0]" LOC = P55;
+NET "seg5[6]" LOC = P76;
+NET "seg5[5]" LOC = P75;
+NET "seg5[4]" LOC = P72;
+NET "seg5[3]" LOC = P71;
+NET "seg5[2]" LOC = P70;
+NET "seg5[1]" LOC = P69;
+NET "seg5[0]" LOC = P68;
+NET "seg6[6]" LOC = P85;
+NET "seg6[5]" LOC = P84;
+NET "seg6[4]" LOC = P83;
+NET "seg6[3]" LOC = P82;
+NET "seg6[2]" LOC = P79;
+NET "seg6[1]" LOC = P78;
+NET "seg6[0]" LOC = P77;
+
+
+
+
+
+
+# PlanAhead Generated physical constraints 
+
